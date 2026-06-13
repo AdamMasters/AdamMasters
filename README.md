@@ -15,7 +15,13 @@ Adam's profile is a testament to his unwavering commitment to enriching the educ
 - 🏠 **Hometown:** Salford, Manchester, UK
 - 🏫 **School:** Our Lady of Mount Carmel *(Class of 1996)*
 - 🎓 **Field of Study / Interests:** Always Technology
-- 💻 **First piece of tech I ever owned:** A ZX Spectrum 64 — and it all went downhill from there
+- 💻 **First piece of tech I ever owned:** A ZX Spectrum 64 and the passion for gadgets continued
+
+
+<p align="center">
+  <img src="https://cdn.cp.adobe.io/content/2/dcx/cc91f93f-43fb-420c-8900-3d3dc0710a7d/rendition/preview.jpg/version/1/format/jpg/dimension/width/size/1200" width="300" alt="Adam Masters" style="border-rectangle: 50%;" />
+</p>
+
 ---
  
 ## What I'm Up To
@@ -23,10 +29,11 @@ Adam's profile is a testament to his unwavering commitment to enriching the educ
 - 🔭 **Currently working on:** Transitioning into IT/data leadership in education, managing edtech strategy and data systems at a school in the Cayman Islands
 - 🌱 **Currently learning:** Azure (AZ-900), Microsoft Certified Educator (MCE), Power BI, and data protection frameworks
 - 👯 **Looking to collaborate on:** Edtech projects, MIS/data management tools, and Microsoft 365 integrations in school environments
-- 🤔 **Looking for help with:** Pathways into senior IT/data leadership roles in international or UK trust school contexts
+- 🤔 **Looking for help with:** Pathways into senior IT/data leadership roles in international school contexts
 - 💬 **Ask me about:** Microsoft education tools, CS/ICT teaching, edtech coordination, data management in schools, or the NPQSL
 - 😄 **Pronouns:** He/him
-- ⚡ **Fun fact:** I ride a Scout Indian Bobber Cruiser 🏍️ — and yes, I've memorised more keyboard shortcuts than I have roads to ride on
+- ⚡ **Fun fact:** I ride a Scout Indian Bobber Cruiser 🏍️
+
 ---
  
 ## Get in Touch
