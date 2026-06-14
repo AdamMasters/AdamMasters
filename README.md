@@ -32,6 +32,7 @@ Adam's profile is a testament to his unwavering commitment to enriching the educ
 - 🤔 **Looking for help with:** Pathways into senior IT/data leadership roles in international school contexts
 - 💬 **Ask me about:** Microsoft education tools, CS/ICT teaching, edtech coordination, data management in schools, or the NPQSL
 - 😄 **Pronouns:** He/him
+- 😂 **How many units of storage does Stephen King have on his computer?** One terror byte.
 - ⚡ **Fun fact:** I ride a Scout Indian Bobber Cruiser 🏍️
 
 ---
